@@ -5,7 +5,7 @@
 // let a = 8
 // let b = 9 
 
-// for (i = 0; i <= b; i++ ){
+// for (let i = 0; i <= b; i++ ){
 //     console.log(a);
 // }
     
@@ -15,7 +15,7 @@
 // let a = 11 
 // let b = 9
 
-// for (let i = b; i < a; i++) {
+// for (let i = b; i <= a; i++) {
 //     console.log(i);
 // }
 
@@ -95,7 +95,11 @@
 
 //-------------------  10-masala 
 
-// Tushunmadim savolni
+// let a = 9
+
+// for(i = 1; i <= a; i++){
+//     console.log(a + '/' + i);
+// }
 
 
 //-------------------  11-masala 
@@ -129,6 +133,10 @@
 //         console.log(i);
 //     }
 // }
+
+
+
+
 
 
 
@@ -288,16 +296,23 @@
 
 //-------------------  5-masala
 
-// Unchalik tushunmadim.
 
 // let a = 4
 // let b = 5
-// let c = '+'
+// let c = '*'
 
-// switch (a, b, c ) {
-//     case a, c, b:
-//       console.log(a, c, b)
+// switch (a, b, c) {
+//     case c = '+':
+//       console.log(a + b)
 //       break
+//     case c = '-':
+//       console.log(a - b)
+//       break
+//     case c = '/':
+//       console.log(a / b)
+//       break
+//     case c = '*':
+//       console.log(a * b);
 //     default:
 //       console.log('Hato')
 //       break
