@@ -135,6 +135,51 @@
 // }
 
 
+//-------------------  14-masala 
+
+// let a = 10
+
+// for (let i = 1; i <= a; i++) {
+//     console.log(i ** 2);
+// }
+
+//-------------------  15-masala 
+
+// let a = 10
+
+// for (let i = a; i > 1; i--){
+//     console.log(i);
+// }
+
+
+//-------------------  16-masala 
+
+// Yushunmadim
+
+
+//-------------------  17-masala 
+
+// let a = 10
+
+// for (let i = 1; i <= a; i++) {
+//     console.log(i * i);
+// }
+
+//-------------------  18-masala 
+
+// let a = 9
+
+// for(let i = 0; i <= a; i++){
+//     console.log(a + '!' + i);
+// }
+
+
+//-------------------  19-masala 
+
+
+
+
+
 
 
 
@@ -344,3 +389,95 @@
 //         console.log('Hazilsiz olgan bahongizni kiriting');
 //         break;
 // }
+
+
+
+
+// ------------------------------------------- Data types
+
+//-------------------  1-masala
+
+// Tushunmadim
+
+
+
+//-------------------  2-masala
+
+// const tonna = 100
+
+// function ton(kg){
+//  return   kg / 1000
+// }
+
+// console.log(ton(tonna));
+
+
+//-------------------  3-masala
+
+// let a = 8;
+// let b = 5;
+
+// if(a>b){
+//    console.log(a/b + " marta joylashadi"); 
+// }
+// else{
+//     console.log("B katta a dan");
+// }
+
+//-------------------  4-masala
+
+// let a = 10
+
+// if (a > 9){
+//     const number = Math.floor(a / 10)
+//     console.log(Math.floor(a / 10) + ' ikki xonali son');
+//     console.log(((a / 10) - number)  * 10 + ' bir xonali son')
+// } else {
+//     console.log('ikki xonali son kiriting');
+// }
+
+
+//-------------------  5-masala
+
+// let a = 55
+
+// if (a > 9){
+//     const number = Math.floor(a / 10)
+//     const b = ((a / 10) - number)  * 10
+//     console.log(Math.fround( number + b));
+// } else {
+//     console.log('ikki xonali son kiriting');
+// }
+
+
+//-------------------  6-masala
+
+// let a = 55
+
+// if (a > 9){
+//     const number = Math.floor(a / 10)
+//     const b = ((a / 10) - number)  * 10
+//     console.log(Math.fround( number * b));
+// } else {
+//     console.log('ikki xonali son kiriting');
+// }
+
+
+//-------------------  7-masala
+
+// number = 1200
+
+// console.log(number / 100);
+
+
+//-------------------  8-masala
+
+// secund = 1200
+
+// minut = (secund / 60);
+
+// console.log(minut  + ' ' + 'minut');
+
+// console.log(minut / 60 + ' ' + 'soat');
+
+
